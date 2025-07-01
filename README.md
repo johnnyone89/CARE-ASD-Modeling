@@ -1,6 +1,6 @@
 # CARE: Comprehensive Artificial Intelligence Techniques for Reliable Autism Evaluation in Pediatric Care
 
-Welcome to the official repository for **"CARE: Comprehensive Artificial Intelligence Techniques for Reliable Autism Evaluation in Pediatric Care,"** currently under review in the *Journal of Personalized Medicine*. This repository provides the datasets and code implementations used in our research, which aims to enhance the diagnostic process for Autism Spectrum Disorder (ASD) in pediatric care using advanced machine learning techniques.
+Welcome to the official repository for **"CARE: Comprehensive Artificial Intelligence Techniques for Reliable Autism Evaluation in Pediatric Care,"** currently under review in the *CMC-Computers, Materials & Continua*. This repository provides the datasets and code implementations used in our research, which aims to enhance the diagnostic process for Autism Spectrum Disorder (ASD) in pediatric care using advanced machine learning techniques.
 
 ---
 
@@ -152,7 +152,7 @@ For any inquiries, please feel free to contact:
 
 - **Jihoon Moon, Ph.D.**
 - **Email:** johnnyone89@gmail.com
-- **Affiliation:** Soonchunhyang University
+- **Affiliation:** Duksung Women's University
 
 ---
 
