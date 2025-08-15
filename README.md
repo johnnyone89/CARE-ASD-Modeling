@@ -83,21 +83,21 @@ Welcome to the official repository for **"CARE: Comprehensive Artificial Intelli
 #### Zheng's Study.ipynb
 
 - **Purpose:** Implements the comparison study with Zheng et al.'s model.
-- **Reference:** Reference 41 in the paper.
+- **Reference:** Reference 46 in the paper.
 - **Corresponds to:** **Section 4.3** of the paper.
 - **Note:** Implemented in Python.
 
 #### Leeon's Study.ipynb
 
 - **Purpose:** Implements the comparison study with Leeon et al.'s model.
-- **Reference:** Reference 42 in the paper.
+- **Reference:** Reference 47 in the paper.
 - **Corresponds to:** **Section 4.3** of the paper.
 - **Note:** Implemented in Python.
 
 #### Jeon's Study.r
 
 - **Purpose:** Implements the comparison study with Jeon et al.'s model.
-- **Reference:** Reference 43 in the paper.
+- **Reference:** Reference 31 in the paper.
 - **Corresponds to:** **Section 4.3** of the paper.
 - **Note:** Implemented in R, as the original study focuses on R.
 
@@ -138,11 +138,11 @@ Welcome to the official repository for **"CARE: Comprehensive Artificial Intelli
 
 ## References
 
-[41] Zheng, A.; Zhu, H.; Hu, X.; Yang, L. Using Feature Selection Techniques to Investigate the Myth of Autism Spectrum Disorder. *Int. J. Future Comput. Commun.* **2023**, 12, 93–99.
+[46] Zheng, A.; Zhu, H.; Hu, X.; Yang, L. Using Feature Selection Techniques to Investigate the Myth of Autism Spectrum Disorder. *Int. J. Future Comput. Commun.* **2023**, 12, 93–99.
 
-[42] Leeon, S.I.; Sunaira, F.H.; Nehlin, S.; Abdal, S.A.M.Z.; Momen, S. A Machine Learning Approach for Early Detection of Learning Disorders in Pediatrics. In *Proceedings of the 2024 International Conference on Advances in Computing, Communication, Electrical, and Smart Systems (iCACCESS)*, Dhaka, Bangladesh, 2024; pp. 1–6.
+[47] Leeon, S.I.; Sunaira, F.H.; Nehlin, S.; Abdal, S.A.M.Z.; Momen, S. A Machine Learning Approach for Early Detection of Learning Disorders in Pediatrics. In *Proceedings of the 2024 International Conference on Advances in Computing, Communication, Electrical, and Smart Systems (iCACCESS)*, Dhaka, Bangladesh, 2024; pp. 1–6.
 
-[43] Jeon, I.; Kim, M.; So, D.; Kim, E.Y.; Nam, Y.; Kim, S.; Shim, S.; Kim, J.; Moon, J. Reliable Autism Spectrum Disorder Diagnosis for Pediatrics Using Machine Learning and Explainable AI. *Diagnostics* **2024**, 14, 2504.
+[31] Jeon, I.; Kim, M.; So, D.; Kim, E.Y.; Nam, Y.; Kim, S.; Shim, S.; Kim, J.; Moon, J. Reliable Autism Spectrum Disorder Diagnosis for Pediatrics Using Machine Learning and Explainable AI. *Diagnostics* **2024**, 14, 2504.
 
 ---
 
