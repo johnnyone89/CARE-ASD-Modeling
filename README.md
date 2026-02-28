@@ -1,6 +1,8 @@
 # CARE: Comprehensive Artificial Intelligence Techniques for Reliable Autism Evaluation in Pediatric Care
 
-Welcome to the official repository for **"CARE: Comprehensive Artificial Intelligence Techniques for Reliable Autism Evaluation in Pediatric Care,"** currently under review in the *CMC-Computers, Materials & Continua*. This repository provides the datasets and code implementations used in our research, which aims to enhance the diagnostic process for Autism Spectrum Disorder (ASD) in pediatric care using advanced machine learning techniques.
+Welcome to the official repository for **"CARE: Comprehensive Artificial Intelligence Techniques for Reliable Autism Evaluation in Pediatric Care," published in the *Computers, Materials & Continua*.** This repository provides the datasets and code implementations used in our research, which aims to enhance the diagnostic process for Autism Spectrum Disorder (ASD) in pediatric care using advanced machine learning techniques.
+
+**This repository is intended to support transparency, reproducibility, and further research in AI-based pediatric ASD evaluation.**
 
 ---
 
@@ -144,6 +146,7 @@ Welcome to the official repository for **"CARE: Comprehensive Artificial Intelli
 
 [31] Jeon, I.; Kim, M.; So, D.; Kim, E.Y.; Nam, Y.; Kim, S.; Shim, S.; Kim, J.; Moon, J. Reliable Autism Spectrum Disorder Diagnosis for Pediatrics Using Machine Learning and Explainable AI. *Diagnostics* **2024**, 14, 2504.
 
+Moon, J.; Woo, J. "CARE: Comprehensive Artificial Intelligence Techniques for Reliable Autism Evaluation in Pediatric Care." Computers, Materials & Continua, 2025, 85(1), 1383–1425. https://doi.org/10.32604/cmc.2025.067784
 ---
 
 ## Contact
