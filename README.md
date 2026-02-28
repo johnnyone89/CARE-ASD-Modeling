@@ -146,9 +146,13 @@ Welcome to the official repository for **"CARE: Comprehensive Artificial Intelli
 
 [31] Jeon, I.; Kim, M.; So, D.; Kim, E.Y.; Nam, Y.; Kim, S.; Shim, S.; Kim, J.; Moon, J. Reliable Autism Spectrum Disorder Diagnosis for Pediatrics Using Machine Learning and Explainable AI. *Diagnostics* **2024**, 14, 2504.
 
+---
+
+## Citation
+
 If you use this repository in your research, please cite:
 
-Moon, J.; Woo, J. *CARE: Comprehensive Artificial Intelligence Techniques for Reliable Autism Evaluation in Pediatric Care*. *Computers, Materials & Continua* **2025**, *85*(1), 1383–1425. https://doi.org/10.32604/cmc.2025.067784
+- **Moon, J.; Woo, J.** *CARE: Comprehensive Artificial Intelligence Techniques for Reliable Autism Evaluation in Pediatric Care*. *Computers, Materials & Continua* **2025**, *85*(1), 1383–1425. https://doi.org/10.32604/cmc.2025.067784
 
 ---
 
